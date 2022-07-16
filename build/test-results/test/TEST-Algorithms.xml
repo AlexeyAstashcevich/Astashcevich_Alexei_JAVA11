@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Algorithms" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-07-16T09:43:10" hostname="DESKTOP-VFA7GAH" time="0.019">
+  <properties/>
+  <testcase name="algorithms()" classname="Algorithms" time="0.017"/>
+  <testcase name="algorithmsForWord()" classname="Algorithms" time="0.001"/>
+  <system-out><![CDATA[Hello
+РџСЂРёРІРµС‚, Р’СЏС‡РµСЃР»Р°РІ
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
